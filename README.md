@@ -1,5 +1,5 @@
 # VehicleBF
-![VehicleBF](images/DISPOZITIV_FINAL.jpeg)
+![VehicleBF](DISPOZITIV_FINAL.jpeg)
 VehicleBF este un dispozitiv portabil de diagnoză auto, dezvoltat pe baza unui microcontroller ESP32-S3. Proiectul permite afișarea unor informații OBD-II pe un display TFT și oferă două direcții principale de comunicație:
 
 * diagnoză multimarcă prin adaptor ELM327 Wi-Fi;
