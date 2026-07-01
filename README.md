@@ -70,29 +70,14 @@ Proiectul a fost realizat în scop educațional, ca parte a unei lucrări de lic
 | TFT_MISO | GPIO13        |
 | TFT_BL   | GPIO4         |
 
-### Keypad 4x3
-
-| Linie keypad | GPIO ESP32-S3 |
-| ------------ | ------------- |
-| R1           | GPIO2         |
-| R2           | GPIO42        |
-| R3           | GPIO41        |
-| R4           | GPIO40        |
-| C1           | GPIO39        |
-| C2           | GPIO38        |
-| C3           | GPIO37        |
-
 ### Navigare keypad
 
 | Tastă | Funcție                                                      |
 | ----- | ------------------------------------------------------------ |
-| 2     | Sus                                                          |
-| 8     | Jos                                                          |
+| 6     | Sus                                                          |
+| 9     | Jos                                                          |
 | 5     | OK / Selectare                                               |
-| *     | Înapoi                                                       |
-| 4     | Scădere luminozitate                                         |
-| 6     | Creștere luminozitate                                        |
-| #     | Pornire/Oprire hardware prin pinul K al modulului power-bank |
+| 8     | Înapoi                                                       |
 
 ---
 
