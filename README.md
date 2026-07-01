@@ -112,5 +112,13 @@ Proiectul este dezvoltat în Arduino IDE pentru placa ESP32-S3.
 ---
 
 ## Structura meniului
+![Diagrama meniurilor](Meniu.png)
+---
 
+## Mod multimarcă OBD
+![Diagrama de funcționare pt modul multimarcă prin ELM327](Diagrama_ELM.png)
+---
+
+## Mod dedicat Logan 2
+![Diagrama de funcționare pt modul dedicat Logan 2](Diagrama_CAN.png)
 ---
